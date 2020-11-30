@@ -1,3 +1,20 @@
+<h2>Тестовое задание веб-студии Прайд.</h2>
+
+Тестовое задание сделано на основе веб-приложения Yii2 basic.
+Свой код я разместил в 2-х «экшенах» в основном контроллере SiteController:
+- actionIndex
+- actionUpdate
+Классы моделей находятся в каталоге /models
+- Client
+- ClientSearch
+- Phone
+- City
+Представление находится в /views/site/index.php
+В корневом каталоге приложения есть файл с дампом таблиц базы данных db.sql.
+Xml-файл clients.xml лежит в каталоге /web
+Ссылка на репозиторий приложения на гитхаб - https://github.com/Vitaliy-Moskalenko/pride-testtask
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
