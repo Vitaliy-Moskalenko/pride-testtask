@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+ <client id="5a153d02a8b116f18e940050569b68aa">
+	<membership_date>2019-05-04 11:00:01</membership_date>
+	<name>Василий Пчелкин</name>
+	<age>18</age>
+	<city>Moscow</city>
+	<numbers>
+		<number>+79999999999</number>
+		<number>+78888888888</number>
+	</numbers>
+ </client>
+ <client id="1a147d02a8b111e98e940050569b68ad">
+<membership_date>2019-03-02 19:43:58</membership_date>
+<name>Пчелка Васильев</name>
+<age>19</age>
+<city>Kirovsk</city>
+<numbers>
+<number>+71515151515151</number>
+<number>+715151515151</number>
+</numbers>
+ </client>
+</clients>
+
+
+
